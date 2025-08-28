@@ -1,0 +1,25 @@
+img {
+
+    width: 30%;
+    margin: 1.66%;
+    transition: transform 0.3s ease;
+    
+    
+}
+
+img:hover {
+    transform: scale(1.05);
+}
+
+
+
+
+nav {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 3em;
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    padding: 20px 0;
+
+}
